@@ -10,7 +10,7 @@ do.modules=1
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=olive
+device.name1=olivelite
 supported.versions=
 supported.patchlevels=
 '; } # end properties
